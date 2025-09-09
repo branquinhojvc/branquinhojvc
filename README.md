@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor em formação com experiência em C#, Delphi, Python e Lua, aplicando essas linguagens tanto em ambientes corporativos quanto em projetos pessoais. Atuei com bancos de dados como MySQL, Oracle e MongoDB, com foco em consultas, manutenção e suporte técnico.
+Sou desenvolvedor em formação com experiência em C#, Delphi, Python e Lua, aplicando essas linguagens tanto em ambientes corporativos quanto em projetos pessoais. Atuei com bancos de dados como MySQL, Oracle e MongoDB, com foco em consultas, manutenção e suporte técnico. Atualmente estudando sobre Back-End, e em algum futuro talvez eu me torne FullStack.
 
 
 ## 🌐 Socials:
