@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor em formação com experiência em C#, Delphi, Python e Lua, aplicando essas linguagens tanto em ambientes corporativos quanto em projetos pessoais. Atuei com bancos de dados como MySQL, Oracle e MongoDB, com foco em consultas, manutenção e suporte técnico. Tenho interesse contínuo em backend, automação e desenvolvimento de jogos na plataforma Roblox.
+Sou desenvolvedor em formação com experiência em C#, Delphi, Python e Lua, aplicando essas linguagens tanto em ambientes corporativos quanto em projetos pessoais. Atuei com bancos de dados como MySQL, Oracle e MongoDB, com foco em consultas, manutenção e suporte técnico.
 
 
 ## 🌐 Socials:
