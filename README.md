@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=32&pause=1000&color=00F1F7&center=true&vCenter=true&width=435&lines=My+name+is+Jo%C3%A3o+V%C3%ADtor)](https://git.io/typing-svg)
 
-# 💫 About Me:
+## 🙋‍♂️ About Me:
 Olá me chamo João Vítor, tenho 22 anos e desde os meus 3 anos sempre tive contato com tecnologia, ganhei meu primeiro video game e a partir daí me apaixei por jogos, e assim minha curiosidade ao passar dos anos aumentou junto com a paixão por jogos. Por conta dos jogos meu interesse em programação aumentou e decidi em 2020 cursar Engenharia de Software, ainda nao concluí o curso mas sigo estudando e programando
 
 ## 🌐 Socials:
@@ -8,7 +8,7 @@ Olá me chamo João Vítor, tenho 22 anos e desde os meus 3 anos sempre tive con
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/branquinhojvc) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/branquinhojvc) 
 
-# 💻 Tech Stack:
+## 💻 Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=15FD02)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
